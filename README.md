@@ -18,7 +18,7 @@ nano ~/.bashrc
 then add the line
 
 ```
-$PATH=$PATH:~/gitsave
+$PATH=$PATH:~/gitsave.sh
 ```
 This is if the directory is in the home directory
 
