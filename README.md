@@ -24,5 +24,5 @@ This is if the directory is in the home directory
 
 
 Now save the file and exit terminal
-Once you exit reopen and type which gitsave.
+Once you exit reopen and run `which gitsave`
 If you get an output than that means it's working.
